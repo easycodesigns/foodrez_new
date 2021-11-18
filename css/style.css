@@ -122,7 +122,7 @@ body {
   padding: 0 85px;
 }
 .interface .box-1 {
-  width: 50%;
+  width: 40%;
   padding-right: 20px;
   display: flex;
   flex-direction: column;
@@ -134,7 +134,7 @@ body {
   width: 50%;
 }
 .interface .box-2 img {
-  height: 380px;
+  height: 100%;
 }
 /* .interface .box-1 .info{
 
@@ -407,6 +407,7 @@ footer .column-4 img {
   }
   .interface {
     padding: 20px;
+    padding-bottom: 0;
   }
   .interface .box-1 a {
     width: 100%;
